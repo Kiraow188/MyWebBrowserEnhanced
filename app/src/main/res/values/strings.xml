@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Web Browser</string>
+    <string name="load">LOAD URL</string>
+    <string name="url">URL</string>
+
+
+</resources>
